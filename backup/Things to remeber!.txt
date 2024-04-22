@@ -1,0 +1,17 @@
+Check for the unique username for every new user.
+
+admin:
+admin
+admin123
+----------
+manufacturer :
+Williampogi 
+Williampogi
+-
+Polpol 
+Polpol
+----------
+retailer:
+You sent
+retailer 
+retailer
